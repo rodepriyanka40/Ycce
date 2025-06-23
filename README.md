@@ -1,2 +1,3 @@
 # Ycce
-This is my private repository
+This is my public repository.
+This is priyanka rode
